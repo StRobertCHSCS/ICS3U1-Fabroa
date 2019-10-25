@@ -30,7 +30,7 @@ def draw_snow_person(x, y):
 
 
 def on_draw(delta_time):
-    global snow_person1_x
+    snow_person1_x
     global speed
 
     """ Draw everything """
